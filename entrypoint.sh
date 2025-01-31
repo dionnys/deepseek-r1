@@ -16,12 +16,12 @@ echo "Ollama está en ejecución en 0.0.0.0."
 # Lista de modelos a verificar y descargar si no están presentes
 models=(
     "deepseek-r1:1.5b"
-    "mistral:7b"
     "deepseek-coder:6.7b"
-    "gemma:2b"
-    "mixtral:8x7b"
-    "starcoder:15b"
-    "codellama:34b"
+    # "mistral:7b"
+    # "gemma:2b"
+    # "mixtral:8x7b"
+    # "starcoder:15b"
+    # "codellama:34b"
 )
 
 # Descargar modelos si no están presentes
