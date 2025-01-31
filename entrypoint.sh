@@ -19,6 +19,9 @@ models=(
     "mistral:7b"
     "deepseek-coder:6.7b"
     "gemma:2b"
+    "mixtral:8x7b"
+    "starcoder:15b"
+    "codellama:34b"
 )
 
 # Descargar modelos si no están presentes
