@@ -17,11 +17,8 @@ echo "Ollama está en ejecución en 0.0.0.0."
 models=(
     "deepseek-r1:1.5b"
     "deepseek-coder:6.7b"
-    # "mistral:7b"
-    # "gemma:2b"
-    # "mixtral:8x7b"
-    # "starcoder:15b"
-    # "codellama:34b"
+    "qwen2.5:0.5b"
+
 )
 
 # Descargar modelos si no están presentes
