@@ -15,9 +15,11 @@ echo "Ollama está en ejecución en 0.0.0.0."
 
 # Lista de modelos a verificar y descargar si no están presentes
 models=(
-    "deepseek-r1:1.5b"
-    "deepseek-coder:6.7b"
-    "qwen2.5:0.5b"
+    "deepseek-r1:7b"
+    "deepseek-coder-v2:16b"
+    "qwen2.5:7b"
+    "qwen2.5-coder-7b" 
+    "llava:7b"
 
 )
 
